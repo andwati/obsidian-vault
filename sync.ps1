@@ -12,7 +12,7 @@ if ($IsClean) {
     git push
 } else {
     # Get the current date in the desired format (Day - Date)
-    $CommitMessage = "$(Get-Date -Format 'dddd - yyyy-MM-dd HH:mm:ss')"
+    $CommitMessage = "Obsidian sync $(Get-Date -Format 'dddd - yyyy-MM-dd HH:mm:ss')"
 
     # Commit the changes
     git add .
