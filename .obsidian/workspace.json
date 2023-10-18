@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9aba88d2dca51d96",
+  "active": "54186c6460efaa57",
   "lastOpenFiles": [
+    "sync.sh",
     "Untitled.md",
     "craftingcompilers/bootstrapping.md",
     "craftingcompilers/self-hosting.md",
