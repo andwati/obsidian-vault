@@ -1,5 +1,5 @@
 # Define the folder path
-$FolderPath = "C:\Users\Ian\Documents\GitHub\obsidian-vault"
+$FolderPath = "C:\Users\Ian\GitHub\obsidian-vault"
 
 # Change directory to the repository folder
 Set-Location -Path $FolderPath
