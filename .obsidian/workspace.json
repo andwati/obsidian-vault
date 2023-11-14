@@ -11,12 +11,8 @@
             "id": "9a8d0000df24babd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "til/2023-10-27.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "til/2023-10-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "til/2023-10-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "til/2023-10-27.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,20 +139,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9aba88d2dca51d96",
+  "active": "9a8d0000df24babd",
   "lastOpenFiles": [
-    "craftingcompilers/bootstrapping.md",
+    "concepts/dns.md",
+    "til/2023-11-14.md",
     "til/2023-10-27.md",
+    "til/2023-10-18.md",
+    "craftingcompilers/bootstrapping.md",
     "sync.sh",
     "Untitled.md",
     "craftingcompilers/self-hosting.md",
-    "til/2023-10-18.md",
     "craftingcompilers",
     "til/2023-10-17.md",
     "til/2023-10-02.md",
     "til",
     "README.md",
-    "concepts/dns.md",
     "concepts",
     "sync.ps1",
     "til"
