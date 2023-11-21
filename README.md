@@ -1,2 +1,2 @@
 # obsidian-vault
-My Obsidian Vault synced with cron and Windows Task Scheduler
+My Obsidian Vault synced with cron and Windows Task Scheduler.
